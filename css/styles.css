@@ -1,4 +1,4 @@
-/* My Awesome Styles */
+    /* My Awesome Styles */
 
 
 /* Diagnostic Styling 
@@ -49,3 +49,8 @@
 .enter {
     opacity: 0;
 }
+
+.warp {
+    opacity: 1;
+    position: absolute;
+    animation: slideOutRight 10s;
