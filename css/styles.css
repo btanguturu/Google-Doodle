@@ -45,3 +45,7 @@
     left: 250px;
     top: 210px;
 }
+
+.enter {
+    opacity: 0;
+}
