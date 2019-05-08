@@ -1,17 +1,36 @@
 /* My Awesome Styles */
 
+
 /* Diagnostic Styling 
   * Change Background Color
   * Outline Elements
 */
 
+
 /* * {
     outline: 1px dotted black;
 } */
 
+
 /* Google Doodle */
+
 #stage {
-  background: #ccc;
-  height: 300px;
-  width: 600px;
+    background: #000;
+    height: 300px;
+    width: 600px;
+}
+
+#go {
+    color: white;
+    font-size: 5em;
+    font-family: 'Press Start 2P', cursive;
+    text-align: center;
+}
+
+.stars {
+    outline: 1px solid red;
+}
+
+.st2 {
+    fill: #fff;
 }
