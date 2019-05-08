@@ -1,5 +1,5 @@
-$('#click').click(function() {
+// $('#click').click(function() {
 
-    $('.enter').toggleClass('warp');
+//     $('.enter').addClass('.warp');
 
-});
+// });
