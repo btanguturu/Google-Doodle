@@ -44,6 +44,7 @@
     .enter {
         opacity: 0;
         left: -600px;
+        transform: scale(2.5);
     }
     
     #stage:hover .enter {
@@ -51,5 +52,4 @@
         animation: slideOutRight 10s;
         position: absolute;
         top: 40px;
-        transform: scale(2);
     }
